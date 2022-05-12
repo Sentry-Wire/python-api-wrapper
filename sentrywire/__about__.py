@@ -1,0 +1,6 @@
+__author__ = "Connor Egbert, Alliance IT RSG team"
+__copyright__ = "Copyright 2020-2022, Alliance IT"
+__email__ = "connor.egbert@alliance-it.com"
+__license__ = "LGPL3"
+__title__ = "sentrywire"
+__version__ = "2.0"

@@ -9,7 +9,7 @@ In order to use this wrapper you will need the python requests library.
 
 The version below is the version used to develop this, but it will likely work with most versions of the requests library
 - requests>=2.24.0
-### To install decencies
+### To install dependencies
 run the following commands based on your operating system to install the requests library
 - Linux/macOS
   - python3 -m pip install -U requests
@@ -20,7 +20,7 @@ run the following commands based on your operating system to install the request
 If these methods do not work for you, then you can follow the extended installation guide on their site
 [https://requests.readthedocs.io/en/latest/user/install/#install](https://requests.readthedocs.io/en/latest/user/install/#install)
 
-# Sentrywire client
+# SentryWire client
 The Sentrywire client class is the primary method of interaction within the wrapper.
 
 Aside from any SentrywireExceptions you handle, this is the only thing you will need to import.

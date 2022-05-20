@@ -1,2 +1,0 @@
-alert ip [84.53.136.152] any -> any any (msg:"[84.53.136.152 is Critical179]"; sid:36666; )
-alert ip [62.26.220.5] any -> any any (msg:"[62.26.220.5 is Critical139]"; sid:53555; )

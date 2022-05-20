@@ -1,5 +1,0 @@
-alert ip [10.91.170.1] any -> any any (msg:"[10.91.170.1 is Criticalfor160]"; sid:9999; )
-alert ip [172.16.9.171] any -> any any (msg:"[172.16.9.171 is Critical160139179]"; sid:8888; )
-alert ip [192.168.1.1] any -> any any (msg:"[192.168.1.1 is Critical179]"; sid:7777; )
-alert ip [84.53.136.152] any -> any any (msg:"[84.53.136.152 is Critical179]"; sid:6666; )
-alert ip [62.26.220.5] any -> any any (msg:"[62.26.220.5 is Critical139]"; sid:5555; )
